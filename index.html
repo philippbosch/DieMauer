@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=default-width, initial-scale=1.0, user-scalable=no" />
+        <title>DieMauer</title>
+        <style>
+            * {
+                border: 0;
+                margin: 0;
+                padding: 0;
+            }
+            html, body {
+                width: 100%;
+                height: 100%;
+            }
+            #map {
+                width: 100%;
+                height: 100%;
+                background: #c4c4bf;
+            }
+        </style>
+        <!-- <script src="phonegap.js"></script> -->
+        <script>
+            document.addEventListener("touchmove", function(e) { 
+                e.preventDefault(); 
+            }, false);
+            
+            var map, currentPositionMarker;
+            
+            function onBodyLoad() {
+                // document.addEventListener("deviceready",onDeviceReady,false);
+                onDeviceReady();
+                
+                // Load Google Maps API (async)
+                var script = document.createElement("script");
+                script.type = "text/javascript";
+                script.src = "http://maps.google.com/maps/api/js?sensor=true&region=DE&callback=mapInit";
+                document.body.appendChild(script);
+            }
+            
+            function mapInit() {
+                var mapOptions = {
+                    'zoom': 14,
+                    'disableDefaultUI': true,
+                    'streetViewControl': false,
+                    'mapTypeId': google.maps.MapTypeId.ROADMAP,
+                }
+                map = new google.maps.Map(document.getElementById("map"), mapOptions);
+                
+                var wallLayer = new google.maps.KmlLayer('http://lab.pb.io/diemauer/Mauer.kml', {
+                    'preserveViewport': true,
+                    'suppressInfoWindows': true
+                });
+                wallLayer.setMap(map);
+            }
+            
+            function onDeviceReady() {
+                var firstUpdate = true;
+                navigator.geolocation.watchPosition(function(position) {
+                    var currentPositionLatLng = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+                    if (firstUpdate) {
+                        currentPositionMarker = new google.maps.Marker({
+                            'map': map,
+                            'icon': new google.maps.MarkerImage('marker@2x.png', new google.maps.Size(17,17), new google.maps.Point(0,0), new google.maps.Point(9,9), new google.maps.Size(17,17))
+                        });
+                        firstUpdate = false;
+                    }
+                    map.setCenter(currentPositionLatLng);
+                    currentPositionMarker.setPosition(currentPositionLatLng);
+                }, function(error) {
+                    navigator.notification.alert(error.message, error.code, 'OK');
+                }, {
+                    'frequency': 2000,
+                    'enableHighAccuracy': true
+                });
+            }
+        </script>
+    </head>
+    <body onload="onBodyLoad()">
+        <div id="map"></div>
+    </body>
+</html>

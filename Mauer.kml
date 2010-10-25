@@ -1,0 +1,1658 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <Folder>
+      <Folder>
+        <Placemark>
+          <MultiGeometry>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.351371199348,52.5880766149196,3.6    13.3500466142714,52.5888021970543,3.6    13.3502240326262,52.5892530681105,3.6    13.3502297481626,52.5892862484567,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3772026146357,52.5158764750674,3.6    13.3769236561752,52.5159665932437,3.6    13.3768654768584,52.5160345693107,3.6    13.3767646433775,52.5163961438678,3.6    13.3768242436344,52.5165047572682,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3775480010589,52.5157587953111,3.6    13.3772026146357,52.5158764750674,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3774069452659,52.5151469573316,3.6    13.3775083840531,52.5156146619175,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3775083840531,52.5156146619175,3.6    13.377526324534,52.5156780369599,3.6    13.3775480010589,52.5157587953111,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.377271385816,52.5145239333916,3.6    13.3773116041905,52.5147036221194,3.6    13.3774069452659,52.5151469573316,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3769442562501,52.5129575292981,3.6    13.377271385816,52.5145239333916,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3768530191038,52.5125352077833,3.6    13.3769442562501,52.5129575292981,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3768085789481,52.5122837885467,3.6    13.3768530191038,52.5125352077833,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3767531165459,52.5120543037582,3.6    13.3768085789481,52.5122837885467,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3765430569412,52.5110575315394,3.6    13.3767531165459,52.5120543037582,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3763630178101,52.5102210374869,3.6    13.3765430569412,52.5110575315394,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3900104330213,52.5076514926444,3.6    13.3846984853631,52.5073231127209,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3899880676136,52.5077771700538,3.6    13.3900104330213,52.5076514926444,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3906609477359,52.5076792624954,3.6    13.3906385131016,52.5078181738212,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3943010607298,52.5079179085715,3.6    13.3914700912732,52.5077327591498,3.6    13.3906609477359,52.5076792624954,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3985580260503,52.5081836416243,3.6    13.3943010607298,52.5079179085715,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4001793363043,52.5094061536995,3.6    13.3992536713445,52.508190991013,3.6    13.3989436206683,52.5081520979788,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3989436206683,52.5081520979788,3.6    13.3985580260503,52.5081836416243,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4009443994687,52.509214653369,3.6    13.4003796892435,52.5094000788286,3.6    13.4001793363043,52.5094061536995,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4021394426571,52.5088000637696,3.6    13.4012408489099,52.5091029582469,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4012408489099,52.5091029582469,3.6    13.4009443994687,52.509214653369,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4041693878321,52.5079954136241,3.6    13.403639967844,52.5082332282236,3.6    13.403083273448,52.508475418276,3.6    13.4027430329237,52.5085894797193,3.6    13.4021394426571,52.5088000637696,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4073547225114,52.5067720973912,3.6    13.4069686656961,52.5070648371288,3.6    13.4064466425403,52.507452311432,3.6    13.4054777081861,52.5081829223709,3.6    13.4054041936824,52.5082496432914,3.6    13.4053251935155,52.5082464672566,3.6    13.4048372608261,52.5080207705456,3.6    13.4045815545195,52.5078946894382,3.6    13.4044839475768,52.5078743947393,3.6    13.4041693878321,52.5079954136241,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4074731111281,52.5066984941417,3.6    13.4073547225114,52.5067720973912,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.411693757656,52.5052743348475,3.6    13.4115209637688,52.5050358907316,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4115209637688,52.5050358907316,3.6    13.4100768474182,52.5069604761086,3.6    13.4099859204856,52.5069742835203,3.6    13.4082015493061,52.5062704085222,3.6    13.4080766015286,52.506264659974,3.6    13.4079723531134,52.5063085666899,3.6    13.4074731111281,52.5066984941417,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4118421146084,52.5049293522432,3.6    13.4120293790705,52.5051816104339,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4146308647543,52.5048272042584,3.6    13.4145427592991,52.504697547053,3.6    13.4140977664013,52.5041377732444,3.6    13.4139750951328,52.5041242542332,3.6    13.4119191515353,52.5048115199836,3.6    13.4118591569961,52.5048468451919,3.6    13.4118421146084,52.5049293522432,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4286040384775,52.5078316221821,3.6    13.4280160748817,52.506979462176,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4280160748817,52.506979462176,3.6    13.4277966964074,52.5066757148196,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4277966964074,52.5066757148196,3.6    13.4276178147933,52.5064204638236,3.6    13.4274111162739,52.5061586225173,3.6    13.4271025400273,52.5060255537864,3.6    13.4267374061015,52.5058533390021,3.6    13.4262996265922,52.5056837564095,3.6    13.4259501583124,52.5055396457205,3.6    13.4254698447125,52.5053753755761,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4289610575831,52.5081704089608,3.6    13.4286040384775,52.5078316221821,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4427586231668,52.5035570571691,3.6    13.4390940872794,52.5048598869831,3.6    13.4356967635844,52.506667193506,3.6    13.434482759763,52.5072886318762,3.6    13.4334928046502,52.5078323333129,3.6    13.4322021492473,52.5083413444515,3.6    13.4315491183718,52.5085974207129,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4458806876914,52.5016852001373,3.6    13.4452120827495,52.5011641926235,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4560310103689,52.4980023863166,3.6    13.4519173350518,52.4992429468452,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4519173350518,52.4992429468452,3.6    13.449543548651,52.5001481810234,3.6    13.4475687498563,52.5009079155438,3.6    13.4458806876914,52.5016852001373,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3640993031363,52.5940160518674,3.6    13.3664680422382,52.5959988299702,3.6    13.3682948177593,52.5974718017353,3.6    13.3697688231516,52.5987123515193,3.6    13.3701985600064,52.5990883908152,3.6    13.3710726567631,52.5999988520251,3.6    13.373033306765,52.6027739868496,3.6    13.3736732940013,52.6037013464741,3.6    13.3741845231768,52.6045542024702,3.6    13.3763716508789,52.6077497756603,3.6    13.3764542829099,52.6082533362287,3.6    13.376521346889,52.6093055076252,3.6    13.3764936031516,52.6111645980065,3.6    13.3761867772088,52.6124421690067,3.6    13.3760270903264,52.6129682276109,3.6    13.3758790897755,52.6134038954065,3.6    13.3756605713371,52.6138614694772,3.6    13.3754385695473,52.6142454996481,3.6    13.3751837785641,52.6147128355008,3.6    13.3746211206663,52.6156241052041,3.6    13.3744776175943,52.6158261046717,3.6    13.3743069549054,52.6160151259334,3.6    13.3740341806808,52.6163144309375,3.6    13.3738277127065,52.6165370903507,3.6    13.3735250350649,52.6169798572526,3.6    13.3733042815394,52.6172875199399,3.6    13.3731489544609,52.6175300217444,3.6    13.3725791688548,52.6183700772971,3.6    13.37196736806,52.6192412781372,3.6    13.3708790696091,52.6207137038765,3.6    13.3704048972781,52.6213589609249,3.6    13.369736855679,52.6221340093572,3.6    13.368638210473,52.623337239808,3.6    13.3681905471191,52.6238453242913,3.6    13.367915413323,52.6241743540524,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3892186132757,52.568291870841,3.6    13.3883588685193,52.5694785811581,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3989763493524,52.5508549463446,3.6    13.3997922241263,52.5509475309833,3.6    13.3996088798492,52.5511348258132,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4006192218612,52.5461464169223,3.6    13.4004973672464,52.5464489174867,3.6    13.3994470254907,52.5488490213386,3.6    13.3989785311498,52.5508549583751,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3749291157251,52.5373274849426,3.6    13.3764238178688,52.5382604014241,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3883588685193,52.5694785811581,3.6    13.3870091460164,52.5702199457515,3.6    13.3830554882363,52.5723861625867,3.6    13.3823212423202,52.5720731719861,3.6    13.3798823884137,52.5724829354524,3.6    13.3788771287147,52.5735049931371,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.398384464902,52.5548106107369,3.6    13.3982797313034,52.5552271768063,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3996088798492,52.5511348258132,3.6    13.3994704535753,52.5511256217243,3.6    13.3992399055035,52.5518368941723,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3992399055035,52.5518368941723,3.6    13.3988408066205,52.5531122920983,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3884260424865,52.533707976128,3.6    13.3889056432792,52.5341979783635,3.6    13.3900981114931,52.5352374527205,3.6    13.3930982511909,52.5371312976683,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3930982511909,52.5371312976683,3.6    13.3935797590052,52.5373819650836,3.6    13.3958844593921,52.5380907025637,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3958844593921,52.5380907025637,3.6    13.3964119153418,52.5382096000069,3.6    13.4035653294743,52.5401954914347,3.6    13.4018996360529,52.5435061334982,3.6    13.4006192218612,52.5461464169223,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3739884294039,52.5280020896598,3.6    13.3738346095958,52.5281437627732,3.6    13.3736204971742,52.5283583362749,3.6    13.3733798199632,52.528564738,3.6    13.3731192066748,52.5287670392273,3.6    13.372840152608,52.5289876830869,3.6    13.3722934059422,52.5295379579538,3.6    13.3715693374432,52.5302639691633,3.6    13.3712123999619,52.530684495026,3.6    13.3709704010143,52.5310922383125,3.6    13.3708538362669,52.5311825470057,3.6    13.3702426533438,52.5320326421781,3.6    13.3698739656277,52.5324402891031,3.6    13.3695279167854,52.5327974627727,3.6    13.3694735187452,52.5327839524252,3.6    13.3688995250431,52.5333640832922,3.6    13.3690062971177,52.5336246053005,3.6    13.3666039691482,52.5358821606331,3.6    13.3667168341894,52.536038983242,3.6    13.3678144907474,52.5365422181299,3.6    13.3678584659454,52.5365578286936,3.6    13.3679023730149,52.536538080234,3.6    13.3686085045692,52.53592240868,3.6    13.3729195373829,52.537967075937,3.6    13.3729710889911,52.5379802804624,3.6    13.3730397462907,52.5379635666714,3.6    13.3742223870346,52.5372003658847,3.6    13.3745359163114,52.5370444323653,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3734718043314,52.5260366844427,3.6    13.3736766439241,52.5261358596711,3.6    13.3738958338369,52.5262825777408,3.6    13.3741777681942,52.5265536952797,3.6    13.3743053184663,52.5267542562131,3.6    13.3743740637561,52.5269478181306,3.6    13.3743751016856,52.5271833984174,3.6    13.3743395316974,52.5274049255912,3.6    13.3742340319484,52.5276887430228,3.6    13.3741864098858,52.5277646251586,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4448964295278,52.5013335912749,3.6    13.4461805684548,52.5023369935758,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4461805684548,52.5023369935758,3.6    13.4449404144012,52.5027490773032,3.6    13.4447143760949,52.5028635289143,3.6    13.4431851528721,52.5033933828582,3.6    13.4427586231668,52.5035570571691,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4315491183718,52.5085974207129,3.6    13.4296341471099,52.5094840526664,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4296341471099,52.5094840526664,3.6    13.4291495796006,52.5088804076499,3.6    13.4292334368087,52.5086934008321,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4254698447125,52.5053753755761,3.6    13.4250703991042,52.5052749114557,3.6    13.424563937948,52.505163843011,3.6    13.4238656857929,52.5050744185812,3.6    13.4233750087947,52.5050420198847,3.6    13.4230111367236,52.5050463996056,3.6    13.4226532654377,52.5050523985269,3.6    13.4223604252284,52.5050651259205,3.6    13.4219155761409,52.5051057538094,3.6    13.4214761786401,52.5051701839052,3.6    13.421036508348,52.5052745695802,3.6    13.41948077813,52.5057225152394,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.41948077813,52.5057225152394,3.6    13.4190973474559,52.5052314232107,3.6    13.4189089335752,52.5050940510144,3.6    13.4186358457846,52.5050318174377,3.6    13.4182450665355,52.5050677839725,3.6    13.4176218307581,52.5042551931313,3.6    13.4149442636134,52.504992674533,3.6    13.4146308647543,52.5048272042584,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4292334368087,52.5086934008321,3.6    13.4293396620125,52.5086151358145,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4293396620125,52.5086151358145,3.6    13.4289610575831,52.5081704089608,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3846984853631,52.5073231127209,3.6    13.3790070729793,52.506993699052,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3790070729793,52.506993699052,3.6    13.377964246193,52.5078717084103,3.6    13.3773986953118,52.5081097959591,3.6    13.3760576952685,52.508291830859,3.6    13.375986407817,52.5083471301912,3.6    13.3763630178101,52.5102210374869,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3768242436344,52.5165047572682,3.6    13.376951279387,52.5166027929151,3.6    13.3772199546014,52.5167217173585,3.6    13.3773658712805,52.5167616194564,3.6    13.376950067355,52.5179905638529,3.6    13.3769816779873,52.5194212514113,3.6    13.3771516377188,52.519508550786,3.6    13.377446839069,52.5193826909432,3.6    13.3778126946269,52.5192627204712,3.6    13.3782099112329,52.5191576141327,3.6    13.3785727721118,52.5190897196144,3.6    13.378919229498,52.5190329881545,3.6    13.3794148090418,52.51899133591,3.6    13.3797241232291,52.5189768634474,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3764238178688,52.5382604014241,3.6    13.3795558388466,52.5400604092574,3.6    13.3797128542307,52.5401175733722,3.6    13.3800113579057,52.5398017804629,3.6    13.380108460851,52.5396294858414,3.6    13.3801930309731,52.539561077448,3.6    13.382649081406,52.5371347423117,3.6    13.3842565391142,52.5358222300146,3.6    13.3863426978772,52.534110808437,3.6    13.3872991776642,52.5333505347074,3.6    13.3877901246252,52.5329788726523,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3877901246252,52.5329788726523,3.6    13.3878742213287,52.5330270431905,3.6    13.3884260424865,52.533707976128,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3988408066205,52.5531122920983,3.6    13.3986594754887,52.5537167488793,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3986594754887,52.5537167488793,3.6    13.3984443653361,52.5545723599122,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3982797313034,52.5552271768063,3.6    13.3981103605879,52.5560525154471,3.6    13.3980388135709,52.5565929133823,3.6    13.3979842521892,52.5570148140809,3.6    13.3980259109279,52.5576739154631,3.6    13.3979511923205,52.5580873841593,3.6    13.3978730441585,52.5584626331808,3.6    13.3976664149462,52.558859447489,3.6    13.3976185519482,52.5588803161655,3.6    13.3976400652345,52.5589310813789,3.6    13.3975451835264,52.5591762969036,3.6    13.3974052204182,52.5604548416088,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3974052204182,52.5604548416088,3.6    13.3973514869447,52.5609270641267,3.6    13.3970830801582,52.5615702294244,3.6    13.3969942095672,52.5616531107311,3.6    13.3960547387161,52.5625381235035,3.6    13.3954054931888,52.5631411150078,3.6    13.3948629062793,52.5636429339044,3.6    13.3941558793666,52.564229997047,3.6    13.3935661691829,52.5647042048509,3.6    13.3930949309605,52.5650849139665,3.6    13.3915611688761,52.5659790591467,3.6    13.3892732786298,52.5673105360316,3.6    13.3892377885702,52.5673890084535,3.6    13.3894917409373,52.568140274925,3.6    13.389318170471,52.5682229812492,3.6    13.3892186132757,52.568291870841,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3764765652216,52.5749010875088,3.6    13.3749024186623,52.5758046075783,3.6    13.372263407381,52.5769245641436,3.6    13.3707381935553,52.5775672568479,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3707381935553,52.5775672568479,3.6    13.3651981664232,52.5806867477886,3.6    13.3646872082985,52.5810525975851,3.6    13.3640166836333,52.5814896567562,3.6    13.3635452229347,52.5814742229034,3.6    13.360061011391,52.5834256621487,3.6    13.3593377238178,52.5839135854519,3.6    13.3589089581005,52.584188490984,3.6    13.358281513963,52.5844851524116,3.6    13.3580823153427,52.584341790892,3.6    13.3578462064002,52.5843891794352,3.6    13.3523439729846,52.5874196663126,3.6    13.3523267932409,52.5875686353004,3.6    13.351371199348,52.5880766149196,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3502297481626,52.5892862484567,3.6    13.3501645627329,52.5892892747225,3.6    13.3492235967458,52.5892304171101,3.6    13.3491240798097,52.5892717350185,3.6    13.3478408733703,52.5900008338227,3.6    13.3478144398646,52.5900736319205,3.6    13.3479373355518,52.5901297465018,3.6    13.3487575418824,52.5903165078892,3.6    13.3511182263687,52.5907013535009,3.6    13.3518144741574,52.5907497154071,3.6    13.3530578953712,52.5908284881072,3.6    13.3541363027799,52.5908372491679,3.6    13.3559918637795,52.5908722488748,3.6    13.3581008586164,52.59100405677,3.6    13.3607155197877,52.5911842927402,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3607155197877,52.5911842927402,3.6    13.3640993031363,52.5940160518674,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4512111943664,52.4971912691969,3.6    13.4512112587696,52.4971912990743,3.6    13.4514281583338,52.4973093831483,3.6    13.451673496107,52.4973741480436,3.6    13.4518810023992,52.4974141529527,3.6    13.4522338632592,52.4974795850297,3.6    13.4527036155387,52.4975557236303,3.6    13.4529853675465,52.497550863018,3.6    13.4534404173072,52.4975127927358,3.6    13.4541280967268,52.4975476890528,3.6    13.4554457436175,52.4972802497232,3.6    13.4560310103689,52.4980023863166,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3797241232291,52.5189768634474,3.6    13.380115254566,52.5189932970042,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3800273693876,52.5195068982591,3.6    13.3793989518955,52.5195002932068,3.6    13.3789576953026,52.5195322657394,3.6    13.3784258229425,52.5196296364363,3.6    13.3780907086925,52.5197200024853,3.6    13.377706548886,52.5198485031578,3.6    13.3773979408922,52.5200222705051,3.6    13.3771337270921,52.5202103236442,3.6    13.3770142657603,52.5203456137639,3.6    13.3769270397956,52.5205077041275,3.6    13.3767143314147,52.5213895117079,3.6    13.3764387595552,52.5218675721427,3.6    13.3763046429561,52.5220577593366,3.6    13.3761712315913,52.5222353928731,3.6    13.3758226088062,52.5224528007747,3.6    13.3755247962296,52.5226139201028,3.6    13.375215682164,52.5227685045807,3.6    13.3749285959551,52.5228895820741,3.6    13.3745950898958,52.5230280938605,3.6    13.3742829991036,52.5231360096233,3.6    13.3738294287704,52.5232863298723,3.6    13.3734732320601,52.5236771494065,3.6    13.373473836343,52.5237099411827,3.6    13.3735322248961,52.5240786824377,3.6    13.3735563452551,52.5245779280455,3.6    13.373473522311,52.5247892552034,3.6    13.3734718043314,52.5260366844427,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4560310103689,52.4980023863166,3.6    13.4582824343247,52.4973127173508,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3741864098858,52.5277646251586,3.6    13.3745039357874,52.5278284777456,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3745359163114,52.5370444323653,3.6    13.3749291157251,52.5373274849426,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3900104330213,52.5076514926444,3.6    13.3906609477359,52.5076792624954,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4115209637688,52.5050358907316,3.6    13.4118421146084,52.5049293522432,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3984443653361,52.5545723599122,3.6    13.398384464902,52.5548106107369,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4456134779536,52.4944250662928,3.6    13.4459387206943,52.4945084065212,3.6    13.4462490467131,52.4945967579085,3.6    13.4465308383384,52.4946671061945,3.6    13.4470035495538,52.4946445374506,3.6    13.4473192539269,52.4946250765177,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4453171662522,52.4943469056102,3.6    13.4456134779536,52.4944250662928,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4446252604419,52.4941674691151,3.6    13.444927310531,52.4942430693752,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.444927310531,52.4942430693752,3.6    13.4453171662522,52.4943469056102,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4430508877599,52.4929454438663,3.6    13.4446252604419,52.4941674691151,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4473192539269,52.4946250765177,3.6    13.4474272050091,52.4946273100736,3.6    13.447933036746,52.4947931749516,3.6    13.4497643934058,52.4961501820825,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4497643934058,52.4961501820825,3.6    13.4500833950973,52.4963640991231,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4500833950973,52.4963640991231,3.6    13.4504172834086,52.4966305380707,3.6    13.4506815158159,52.4968266557476,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4506815158159,52.4968266557476,3.6    13.4509214360635,52.497002411909,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4509214360635,52.497002411909,3.6    13.4510622700349,52.4971114421969,3.6    13.4512111943664,52.4971912691969,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4486429685674,52.4880911570616,3.6    13.4467617296097,52.4890407421308,3.6    13.4444138366054,52.4875263502497,3.6    13.4442315374476,52.4876077296078,3.6    13.4434798244141,52.4879865693425,3.6    13.4397415600762,52.4898776552016,3.6    13.4396987890038,52.4900562828496,3.6    13.4397164793147,52.4902222729798,3.6    13.4397918014396,52.4904082340266,3.6    13.4413438422647,52.4916186530973,3.6    13.442387040768,52.49242560095,3.6    13.4430508877599,52.4929454438663,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4503438697639,52.4872855247618,3.6    13.4488753430509,52.48798815853,3.6    13.4486429685674,52.4880911570616,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4504603937379,52.4872188807514,3.6    13.4503438697639,52.4872855247618,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4520492768785,52.4863849553935,3.6    13.451401021787,52.4867247039593,3.6    13.4504603937379,52.4872188807514,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4689344428318,52.478362650034,3.6    13.4644066142527,52.4815474243216,3.6    13.4637400569821,52.4818390180161,3.6    13.4617702263603,52.4832276785821,3.6    13.461453239396,52.4835372964181,3.6    13.4610860282935,52.4838762955579,3.6    13.4595667675017,52.4849495651465,3.6    13.4593982931178,52.4849724963847,3.6    13.4586830711668,52.4854783777254,3.6    13.4582340266475,52.4858605189168,3.6    13.4580943678215,52.4858474209771,3.6    13.4562041381359,52.4844720121321,3.6    13.4560210273412,52.4843612207729,3.6    13.4520492768785,52.4863849553935,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4704357619421,52.4727547037761,3.6    13.4698802033135,52.4733714622084,3.6    13.4696206666491,52.4738291684543,3.6    13.4698239283554,52.4743524396432,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4698239283554,52.4743524396432,3.6    13.4704140892611,52.4759431509197,3.6    13.4707904018539,52.4770154377889,3.6    13.4689344428318,52.478362650034,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4742815606666,52.4690550348268,3.6    13.4739254111409,52.4693797979421,3.6    13.4729197286602,52.4703515379532,3.6    13.4724387147711,52.4708372139599,3.6    13.4716011019459,52.4715571791313,3.6    13.4704357619421,52.4727547037761,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4781072493186,52.4657040365802,3.6    13.4779634452941,52.465840585034,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4779634452941,52.465840585034,3.6    13.4764432816937,52.4672303598523,3.6    13.4757062391648,52.4677172544417,3.6    13.4742815606666,52.4690550348268,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4775242325789,52.4621524987772,3.6    13.4787596107484,52.4640007258399,3.6    13.4787184176587,52.4649809113551,3.6    13.4785401046663,52.4652830102389,3.6    13.4781072493186,52.4657040365802,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.484236417279,52.4400352665086,3.6    13.4831589504489,52.4405499530166,3.6    13.4801134743628,52.4420772217846,3.6    13.4785736374826,52.4428306885568,3.6    13.4782332373097,52.4430852431573,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4846094640051,52.4399310006099,3.6    13.484236417279,52.4400352665086,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4895952390272,52.4374537317302,3.6    13.4889120179555,52.4378963445414,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4889120179555,52.4378963445414,3.6    13.4848811190116,52.439823467514,3.6    13.4846094640051,52.4399310006099,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4945352950518,52.4350854086051,3.6    13.4895952390272,52.4374537317302,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4949496267936,52.4349484071242,3.6    13.4945352950518,52.4350854086051,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4982332035499,52.4333546006632,3.6    13.4980031796348,52.4334038533043,3.6    13.4975390386349,52.4336045766466,3.6    13.4973005634466,52.433790123942,3.6    13.4949496267936,52.4349484071242,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.5202950661532,52.4256587788622,3.6    13.5203518091206,52.4258242687827,3.6    13.5204788519936,52.4261369775769,3.6    13.5206092873344,52.4266447625742,3.6    13.5198157107548,52.4267749124111,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4750681438028,52.4587559466454,3.6    13.4786862748522,52.4587328701685,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4713555105728,52.4588471338686,3.6    13.4727915442631,52.4587847546667,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4727915442631,52.4587847546667,3.6    13.4750681438028,52.4587559466454,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4630598628464,52.4510981339779,3.6    13.4628890877156,52.4512878331579,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4628890877156,52.4512878331579,3.6    13.4625402916475,52.4516718140405,3.6    13.4617822520014,52.4525830759857,3.6    13.4615406499319,52.4528056637481,3.6    13.4612284186166,52.4532047884219,3.6    13.460977935973,52.4535947581118,3.6    13.4603832417733,52.454515897001,3.6    13.459426506752,52.4559133659462,3.6    13.4589276989596,52.4565835137249,3.6    13.4579373385466,52.4577997740913,3.6    13.4570631679269,52.4591006810231,3.6    13.4570529863089,52.4592328599159,3.6    13.457303545303,52.4592493346199,3.6    13.4592342701574,52.4591692565023,3.6    13.4657718036485,52.458922317197,3.6    13.4677075674219,52.4589311027158,3.6    13.4713555105728,52.4588471338686,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4695648288838,52.4471961196984,3.6    13.4681888904771,52.447846350178,3.6    13.4669309132377,52.4484536876591,3.6    13.4656181896859,52.4490702220346,3.6    13.4651991898716,52.4493459001435,3.6    13.4640885954353,52.4501333493334,3.6    13.4634993575612,52.4506011961021,3.6    13.4630598628464,52.4510981339779,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4782332373097,52.4430852431573,3.6    13.4770180426361,52.4436821783226,3.6    13.4761544630558,52.443988678923,3.6    13.4708477872404,52.446574728275,3.6    13.4697784328668,52.4471067996829,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4697784328668,52.4471067996829,3.6    13.4695648288838,52.4471961196984,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4790184110695,52.4590071618833,3.6    13.4751012743322,52.4591172380777,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4751012743322,52.4591172380777,3.6    13.4751049914227,52.4594384210345,3.6    13.4752936733492,52.4598645527764,3.6    13.4755205754732,52.4602365291214,3.6    13.4756463059318,52.4605386844671,3.6    13.4757971794098,52.460902819361,3.6    13.4769605051726,52.461771567822,3.6    13.4772227433037,52.4618853892527,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.5198157107548,52.4267749124111,3.6    13.5177286076784,52.4268998251516,3.6    13.5162342703727,52.4269925662076,3.6    13.5143173207313,52.4272162924857,3.6    13.5127896187498,52.4274555648195,3.6    13.5118609934041,52.4276353173016,3.6    13.5105922873532,52.4279591546687,3.6    13.5096265418192,52.4282390686726,3.6    13.508706053155,52.4285200130545,3.6    13.5078208086515,52.4288562698712,3.6    13.5065647527809,52.4293692514389,3.6    13.5044494112928,52.4303341720792,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.5044494112928,52.4303341720792,3.6    13.5010839282888,52.4319682832084,3.6    13.4986585484741,52.4331463504363,3.6    13.4982332035499,52.4333546006632,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4772227433037,52.4618853892527,3.6    13.4775242325789,52.4621524987772,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3788771287147,52.5735049931371,3.6    13.3764765652216,52.5749010875088,3.6    </coordinates>
+            </LineString>
+          </MultiGeometry>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <width>4</width>
+              <color>C00000DD</color>
+            </LineStyle>
+            <PolyStyle>
+              <color>C00000DD</color>
+            </PolyStyle>
+          </Style>
+        </Placemark>
+        <open>0</open>
+      </Folder>
+      <name>Inner wall</name>
+      <open>0</open>
+      <Style>
+        <ListStyle>
+          <bgColor>FFFFFFFF</bgColor>
+          <listItemType>checkHideChildren</listItemType>
+          <color>FFFFFFFF</color>
+        </ListStyle>
+      </Style>
+    </Folder>
+    <Folder>
+      <Folder>
+        <Placemark>
+          <MultiGeometry>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4772227433037,52.4618853892527,3.6    13.4781006514861,52.4616098587629,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.478419549853,52.4618558143563,3.6    13.4775242325789,52.4621524987772,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.380115254566,52.5189932970042,3.6    13.3800273693876,52.5195068982591,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3739884294039,52.5280020896598,3.6    13.3740580724212,52.5280515638595,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4358398261406,52.5054154435447,3.6    13.4358972160208,52.5054254368778,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4738613793485,52.4701943428778,3.6    13.4746973496011,52.4691661066861,3.6    13.4748704657307,52.469005289247,3.6    13.4747722346613,52.4689629873426,3.6    13.4755572048889,52.4682569622766,3.6    13.4770230380663,52.4670726237066,3.6    13.4776651371064,52.4666286030061,3.6    13.4777742712732,52.4664268031677,3.6    13.4791236852464,52.4655322489179,3.6    13.4791276114493,52.4649047500696,3.6    13.4794016253466,52.4637955450479,3.6    13.4789068065637,52.4637651820042,3.6    13.4783026222563,52.4629371845392,3.6    13.478419549853,52.4618558143563,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4781006514861,52.4616098587629,3.6    13.477199326932,52.4615547822642,3.6    13.4769904290189,52.4614635297715,3.6    13.4766905965037,52.4611487556854,3.6    13.4764933280068,52.4609453582842,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3775920570623,52.5190685550696,3.6    13.3774652162871,52.5190488652908,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3774652162871,52.5190488652908,3.6    13.3774439542787,52.5187402916795,3.6    13.3774263172138,52.5185590285405,3.6    13.377421695076,52.5179690424419,3.6    13.3777421461522,52.517989210576,3.6    13.3778328011216,52.5176818552511,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3778328011216,52.5176818552511,3.6    13.3775782212623,52.5176684447445,3.6    13.3776513792073,52.5175608926083,3.6    13.3780793660994,52.5174750611628,3.6    13.3794319640152,52.5175069620189,3.6    13.379535630021,52.5169741472989,3.6    13.3804400774211,52.5170353064463,3.6    13.3805547641947,52.516207566031,3.6    13.3807844657462,52.5157752914044,3.6    13.3802146922477,52.5157017831925,3.6    13.3791572390139,52.5156340939088,3.6    13.379334390568,52.5114789177455,3.6    13.3788279098554,52.5104106122439,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3824395537323,52.5073115205875,3.6    13.3836485110619,52.5073824514229,3.6    13.3842880784244,52.5074468269759,3.6    13.3843059646686,52.5074243341544,3.6    13.3850374615447,52.5075707199152,3.6    13.3850978780681,52.5074602938657,3.6    13.3853298177125,52.5075047705545,3.6    13.385218041726,52.507721221411,3.6    13.3870219889975,52.5078839122907,3.6    13.3877330849782,52.5079335997254,3.6    13.3877923074484,52.5076382363676,3.6    13.3888595320034,52.5077122041613,3.6    13.3888021722174,52.508220250005,3.6    13.3889581423646,52.5081387080114,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3909903258284,52.5081924549342,3.6    13.3908596082337,52.5081824409572,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3801945938114,52.5189946384965,3.6    13.380194062758,52.5189498083524,3.6    13.3802484066696,52.5189515888641,3.6    13.3802500286323,52.5188248715944,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4027224981367,52.5094361665293,3.6    13.4030022275905,52.509416140476,3.6    13.403203001236,52.5095515551897,3.6    13.405652568211,52.5093811401632,3.6    13.4058673211289,52.5092954728362,3.6    13.4058273883181,52.5092529736989,3.6    13.4062924188191,52.508987275588,3.6    13.4063545965078,52.5090240925901,3.6    13.4085888084727,52.5069250004457,3.6    13.4085237184015,52.5068688874644,3.6    13.4087343598374,52.5067732909756,3.6    13.4094359526373,52.5073590393706,3.6    13.4097046956329,52.5075536854047,3.6    13.4100014862697,52.5073211650129,3.6    13.4103286677573,52.5072086570864,3.6    13.4111011478401,52.5067155227156,3.6    13.4114382749044,52.5071481108903,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4114382749044,52.5071481108903,3.6    13.4129243776376,52.5066797576828,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4132165830218,52.5066020358054,3.6    13.4133523923401,52.5065615162948,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3889581423646,52.5081387080114,3.6    13.3894440521337,52.5084390408145,3.6    13.3893308787332,52.5084982544897,3.6    13.3894975269236,52.5086099731833,3.6    13.3891984754445,52.5087681994791,3.6    13.3891009205006,52.5093051095969,3.6    13.3899254971326,52.5093525449299,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3902044194863,52.5093706686593,3.6    13.3907308071871,52.5094048703025,3.6    13.3907996784967,52.5090463579626,3.6    13.3909130633375,52.5090520194632,3.6    13.3909903258284,52.5081924549342,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4626561362209,52.4958829659841,3.6    13.4622401682893,52.4955254511623,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.442216943665,52.4919021244323,3.6    13.4417498093677,52.491507939748,3.6    13.4401096205625,52.4901409178828,3.6    13.4404002889782,52.4897756234029,3.6    13.4430674432616,52.4884055028311,3.6    13.4431222657306,52.4884516202786,3.6    13.4432438329408,52.4883911434153,3.6    13.4434117797708,52.4885109401388,3.6    13.4447961023309,52.4881676215238,3.6    13.4449586850435,52.488077369158,3.6    13.4466437185947,52.489147744486,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4466437185947,52.489147744486,3.6    13.4471101557379,52.4892973335902,3.6    13.4476658914051,52.489648710836,3.6    13.4511015953144,52.4877307658326,3.6    13.4510237569535,52.4876591129292,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4510237569535,52.4876591129292,3.6    13.4511020238754,52.4876234609227,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4511020238754,52.4876234609227,3.6    13.4506264928874,52.487265315597,3.6    13.4511672785012,52.4870070573598,3.6    13.4512729293073,52.4870909918661,3.6    13.4514311736181,52.4870145665215,3.6    13.4515199555172,52.4870858180179,3.6    13.4533249592205,52.4861823848427,3.6    13.4530964224722,52.4860154872319,3.6    13.4553007783586,52.4848867955804,3.6    13.4555979664842,52.4849360244727,3.6    13.4559022577954,52.4851569835406,3.6    13.4565458141554,52.4855074349352,3.6    13.4578319988305,52.4861696608794,3.6    13.4583075746567,52.4860150128621,3.6    13.4586374778641,52.48584518035,3.6    13.4586719762167,52.4862882174909,3.6    13.4592168345838,52.4862383157554,3.6    13.4591768684433,52.4856940992047,3.6    13.4615518045507,52.4840610749344,3.6    13.4620723228658,52.483816664208,3.6    13.4646853471437,52.4819890005517,3.6    13.4648566421168,52.4816135562397,3.6    13.46652237846,52.4806011862173,3.6    13.4676228609548,52.4798822937476,3.6    13.4713923884465,52.4772207837792,3.6    13.4714388923905,52.4771163649455,3.6    13.4713261055313,52.476697629354,3.6    13.4709956435161,52.4758845963703,3.6    13.4702835028061,52.4740457500495,3.6    13.4707137687246,52.4733411326224,3.6    13.4723175945224,52.4718002069707,3.6    13.4734763075418,52.4706146126739,3.6    13.4738613793485,52.4701943428778,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4764933280068,52.4609453582842,3.6    13.4763909500609,52.4607807760874,3.6    13.4762717101363,52.4605885100659,3.6    13.4761427147533,52.4603613317378,3.6    13.4761517259229,52.4602738023545,3.6    13.4765397115414,52.4599575872427,3.6    13.4790968776328,52.4590719621565,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4790968776328,52.4590719621565,3.6    13.4790184110695,52.4590071618833,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4745619557187,52.4584422478095,3.6    13.474230795923,52.4584461813314,3.6    13.4723605647758,52.4584925916259,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4786862748522,52.4587328701685,3.6    13.4786173057363,52.4586772233115,3.6    13.478617167456,52.4586727761964,3.6    13.4782242997887,52.4583508851036,3.6    13.4761062144524,52.4583716782,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4761062144524,52.4583716782,3.6    13.4745619557187,52.4584422478095,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4723605647758,52.4584925916259,3.6    13.4668254372708,52.4586061369863,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4668254372708,52.4586061369863,3.6    13.4633203879006,52.458610911645,3.6    13.4592457539922,52.4586698806247,3.6    13.458365187807,52.4583701883305,3.6    13.4590304378077,52.4573664093018,3.6    13.4595364260851,52.4565767678225,3.6    13.4601083744426,52.4557384738952,3.6    13.461166250029,52.4543085097463,3.6    13.4636609660585,52.4513825502958,3.6    13.4645669214498,52.45081236016,3.6    13.4667516515521,52.4492073592374,3.6    13.4706561106398,52.4471946055602,3.6    13.4721605819477,52.4464345723109,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4721605819477,52.4464345723109,3.6    13.4732144762186,52.4459602657754,3.6    13.4741627480799,52.4455175395228,3.6    13.4770321322986,52.444263036502,3.6    13.4787808564622,52.4434174506652,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4787808564622,52.4434174506652,3.6    13.4792273853079,52.443237901714,3.6    13.4820075976243,52.4419520780086,3.6    13.4850563875684,52.4405081182815,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4850563875684,52.4405081182815,3.6    13.4902165266559,52.4380025111273,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.5193299114268,52.4282021265953,3.6    13.5198632681533,52.4281022156713,3.6    13.5215947197908,52.4278090151905,3.6    13.5215819818151,52.4271751530886,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.5215819818151,52.4271751530886,3.6    13.5228455964449,52.4264721299215,3.6    13.5227156479914,52.42602225954,3.6    13.5223940848789,52.4256614750132,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3688356403101,52.6241930119856,3.6    13.3707037715078,52.6224946785997,3.6    13.3718623814187,52.621166657328,3.6    13.3728332862143,52.6198475874822,3.6    13.3736350365895,52.6187999689946,3.6    13.3741931680869,52.6180749150612,3.6    13.3749081752767,52.6171456398961,3.6    13.3757559516725,52.6160505131084,3.6    13.3770147469533,52.6142991307984,3.6    13.3783636438117,52.6124302602297,3.6    13.3789894962167,52.6115369075283,3.6    13.3790677884121,52.6114656863913,3.6    13.378101013396,52.6100595007708,3.6    13.3777895913814,52.6093500266133,3.6    13.377334534999,52.608333050382,3.6    13.37669783918,52.606479022729,3.6    13.3765511699217,52.6060506827189,3.6    13.3762896913029,52.6056368144401,3.6    13.3752642613131,52.6040691698772,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3752642613131,52.6040691698772,3.6    13.3751091717372,52.6038565625383,3.6    13.374631309506,52.6030534869172,3.6    13.3741580914676,52.6022682659613,3.6    13.3736933668494,52.6016620766043,3.6    13.3729063762722,52.6006682728409,3.6    13.37258820332,52.6002629019617,3.6    13.3717983614601,52.5996272337046,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3717983614601,52.5996272337046,3.6    13.3717144789176,52.5995154497228,3.6    13.3716181693702,52.5994152122002,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3716181693702,52.5994152122002,3.6    13.36945013565,52.5975896750957,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.36945013565,52.5975896750957,3.6    13.368549938404,52.5968478167567,3.6    13.3682644972043,52.596643137686,3.6    13.3677459004665,52.5962386499424,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3677459004665,52.5962386499424,3.6    13.3655032103758,52.5943977048761,3.6    13.365322932298,52.5942761151089,3.6    13.3649532310003,52.5938734952024,3.6    13.3641272343796,52.5927397278213,3.6    13.3635123202426,52.5923246126916,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3635135229549,52.5923231919326,3.6    13.3631893023473,52.5921051108993,3.6    13.3627484949206,52.5919237094709,3.6    13.3628437946683,52.5917680027864,3.6    13.3629254358994,52.5916192242925,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3610848995695,52.5837132381852,3.6    13.3639044458602,52.5821230480138,3.6    13.3643761090339,52.5820206380037,3.6    13.364684873126,52.5818365954467,3.6    13.3686683153365,52.5797114508802,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3745086645696,52.5769236021725,3.6    13.3757294426642,52.57641632704,3.6    13.3772492175256,52.5753827446595,3.6    13.3778667607355,52.5749611715716,3.6    13.3793078490862,52.5738359106461,3.6    13.3804514021796,52.5734968340025,3.6    13.3816894347268,52.5731275072797,3.6    13.3827295290069,52.5729462933627,3.6    13.3835482179147,52.572671668307,3.6    13.3846050531142,52.5718537170473,3.6    13.3887680762782,52.5695571105976,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3887680762782,52.5695571105976,3.6    13.3889652359109,52.5694479728334,3.6    13.3892347635779,52.5692546370145,3.6    13.3899775129,52.5688514957993,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3899775129,52.5688514957993,3.6    13.3901414620108,52.5686542983499,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3901414620108,52.5686542983499,3.6    13.3907307703265,52.5683324665763,3.6    13.3903058381104,52.5673905503817,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3903058381104,52.5673905503817,3.6    13.3900984060714,52.5672933073359,3.6    13.3937817273833,52.5648134114062,3.6    13.3939049852268,52.5646986707555,3.6    13.3943596031026,52.5643661132602,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4004723940331,52.5607598255188,3.6    13.400586101406,52.5607504612716,3.6    13.4011313626328,52.5606808494016,3.6    13.4011765019,52.5607033231167,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3992829120647,52.5578294094448,3.6    13.3991773019461,52.5574013207268,3.6    13.3991184813012,52.5572071105618,3.6    13.399067744604,52.5569503860127,3.6    13.3990414961097,52.5567056652728,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3990414961097,52.5567056652728,3.6    13.399095852118,52.556170331706,3.6    13.3991406301279,52.5558390545706,3.6    13.3991672904131,52.5555178602652,3.6    13.3992174099359,52.5551711213174,3.6    13.3991087259108,52.5549296860856,3.6    13.3991374950765,52.5548403022133,3.6    13.4015345419141,52.5548092356806,3.6    13.4016891840798,52.5546952527027,3.6    13.4025047407873,52.5546478569909,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.400572049123,52.5507478732776,3.6    13.4007857069429,52.5505325429541,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4007857069429,52.5505325429541,3.6    13.4012805911249,52.550217604165,3.6    13.4016377528516,52.5500432174959,3.6    13.4020379607217,52.5499042843111,3.6    13.4023220135614,52.5498217020664,3.6    13.4026498769896,52.5497545776088,3.6    13.4031258179306,52.5496893264785,3.6    13.4036644009142,52.5496475284621,3.6    13.4036980552725,52.5491426247737,3.6    13.4036179650138,52.5491739752968,3.6    13.403245847653,52.5492194410558,3.6    13.4010255469539,52.5490942146363,3.6    13.4011349529514,52.548741419946,3.6    13.4007336568614,52.5487027562204,3.6    13.4011942309757,52.5475452625623,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4011942309757,52.5475452625623,3.6    13.4015393974273,52.5467359632019,3.6    13.4017809598802,52.5467553754019,3.6    13.4018286247694,52.5467127072583,3.6    13.4021187752439,52.5467385309311,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4021248995407,52.5467385533836,3.6    13.4021806471287,52.5465621454059,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4021806471287,52.5465621454059,3.6    13.4028251867218,52.5466292931991,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4028251867218,52.5466292931991,3.6    13.4031574594651,52.5451986502825,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4031574594651,52.5451986502825,3.6    13.4032426130341,52.5450025966437,3.6    13.4037645827855,52.5437959246442,3.6    13.4037470119034,52.5436692800278,3.6    13.4045408717843,52.542019238726,3.6    13.4047343522627,52.5419462672393,3.6    13.4050713175744,52.5413512056982,3.6    13.4049718724326,52.5413387560671,3.6    13.4047690069009,52.5408149228645,3.6    13.4043774460746,52.5400840633145,3.6    13.4021357279045,52.5394641578475,3.6    13.4016674357048,52.5392888450687,3.6    13.4011087189736,52.5390105374723,3.6    13.3979837343953,52.5380894732023,3.6    13.3979017021873,52.5381775208987,3.6    13.3977772513804,52.538223265354,3.6    13.3968285230029,52.5379337682693,3.6    13.3953521682602,52.5375005662325,3.6    13.3946308981604,52.5374483288594,3.6    13.394074213629,52.5372737854013,3.6    13.393962977271,52.5370189712573,3.6    13.3935177722578,52.536866273005,3.6    13.3931182834133,52.5366169190869,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3931182834133,52.5366169190869,3.6    13.3929866716903,52.5364339949961,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.380115248004,52.5376726323585,3.6    13.3798775035118,52.5382651566634,3.6    13.3795866195752,52.5394917429106,3.6    13.3793694359018,52.5395170645105,3.6    13.3770577869485,52.5382121171645,3.6    13.3769117002518,52.5380806562415,3.6    13.3767420640833,52.5378785610854,3.6    13.3767107368558,52.5377303130554,3.6    13.3772765846383,52.5373788480593,3.6    13.3782068936268,52.5374054761642,3.6    13.3764100504061,52.5368096599837,3.6    13.3765745613574,52.5366291407319,3.6    13.3759612402919,52.5364045367504,3.6    13.3762442866833,52.5361770507219,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3759204108502,52.5360233354777,3.6    13.375768248134,52.5359636602009,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.375768248134,52.5359636602009,3.6    13.3752822030623,52.5363484348006,3.6    13.3745553291353,52.5360978377477,3.6    13.37404488496,52.5365611945051,3.6    13.3742125231572,52.5366332576151,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3742154068702,52.5366323806631,3.6    13.3736784702814,52.5368119859223,3.6    13.3733090025073,52.5370377697183,3.6    13.373391281093,52.5370822980705,3.6    13.3732001919387,52.5371980000065,3.6    13.3734375433551,52.5373373367782,3.6    13.3732940062711,52.5374401008587,3.6    13.3731287784969,52.5375344208079,3.6    13.3730468406884,52.5375335771432,3.6    13.3691928483808,52.5356134606568,3.6    13.3690929270285,52.5355674212633,3.6    13.3691297450433,52.5352362960577,3.6    13.3685904366084,52.5344587059208,3.6    13.3693999590997,52.5337823980257,3.6    13.3698949039937,52.5328613145414,3.6    13.3729669623078,52.5296852571209,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3729669623078,52.5296852571209,3.6    13.3725571367198,52.5295427176796,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3737268645872,52.5283707357263,3.6    13.3737667786595,52.5283708211933,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3735729959013,52.5285205228008,3.6    13.3737268645872,52.5283707357263,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3735397574417,52.5285163943639,3.6    13.3735729959013,52.5285205228008,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3733055208022,52.5287593246046,3.6    13.3735397574417,52.5285163943639,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3725571367198,52.5295427176796,3.6    13.3731666647717,52.5289555328712,3.6    13.3730850079634,52.5289292541112,3.6    13.373271280655,52.5287466596724,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.373271280655,52.5287466596724,3.6    13.3733055208022,52.5287593246046,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3737667786595,52.5283708211933,3.6    13.3740580724212,52.5280515638595,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3745039357874,52.5278284777456,3.6    13.3745484368434,52.5277203707131,3.6    13.3747519625622,52.5271286350138,3.6    13.374730681355,52.5269779612185,3.6    13.3747071630014,52.5267489857116,3.6    13.3746021999117,52.5265175248982,3.6    13.3744059241522,52.5263140550109,3.6    13.3742814984246,52.5261849636408,3.6    13.3741572126529,52.5260441959901,3.6    13.374057561589,52.5258281578403,3.6    13.3740281065488,52.5249999005329,3.6    13.3743459268717,52.5248794514665,3.6    13.3747641822994,52.5246766288064,3.6    13.3750503420117,52.5244956530614,3.6    13.3752825776249,52.5243120275643,3.6    13.375469436702,52.52414534947,3.6    13.3757897142265,52.5238407129605,3.6    13.3759322002153,52.523639790589,3.6    13.3763864089569,52.5231837290698,3.6    13.3767214767224,52.522870229267,3.6    13.3770477061932,52.5225609410307,3.6    13.3773460215693,52.522301211959,3.6    13.3776879850155,52.5220823374336,3.6    13.3780737901573,52.5218831044113,3.6    13.3773999384637,52.521774906099,3.6    13.3779442320847,52.5205452475974,3.6    13.3779968328516,52.5202953509846,3.6    13.3779516764318,52.5201837608057,3.6    13.378009926035,52.5201708303129,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.478419549853,52.4618558143563,3.6    13.4786685410164,52.4617759084299,3.6    13.4787411111727,52.4618729375878,3.6    13.4791318197194,52.4617547046561,3.6    13.4790894505576,52.461641845334,3.6    13.4792579216228,52.4615911422008,3.6    13.479531861355,52.461615889124,3.6    13.4800485800748,52.4614492137605,3.6    13.4799679655546,52.4613617795218,3.6    13.4804912619613,52.4612164091114,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4802719530024,52.4609626309905,3.6    13.4794054297688,52.4612398099209,3.6    13.4793176301161,52.461152740762,3.6    13.4789628452065,52.4612580349478,3.6    13.478918008393,52.4613798288882,3.6    13.4784900827225,52.4613620376753,3.6    13.4780897122576,52.4614803796857,3.6    13.4781006514861,52.4616098587629,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4902165266559,52.4380025111273,3.6    13.4931170619852,52.4365481732491,3.6    13.495587974904,52.4353154432311,3.6    13.4982927175276,52.4339272728942,3.6    13.5050149442596,52.4305233850199,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.5050149442596,52.4305233850199,3.6    13.5066422973032,52.431529764834,3.6    13.5092770681788,52.4299392999356,3.6    13.5193299114268,52.4282021265953,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4434927444168,52.4927983874056,3.6    13.442216943665,52.4919021244323,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4133523923401,52.5065615162948,3.6    13.4122272256682,52.5051107329936,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.450469882845,52.4956683304816,3.6    13.4484690285177,52.494490766703,3.6    13.4464019834027,52.4941948690068,3.6    13.4458030977772,52.4938272520326,3.6    13.4457251591082,52.4937794412186,3.6    13.4456030079943,52.4937099551505,3.6    13.4452375202342,52.49372113162,3.6    13.4445293570569,52.4931776124299,3.6    13.4434927444168,52.4927983874056,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4291634627967,52.5093204858265,3.6    13.4293787544264,52.5095769561859,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4122272256682,52.5051107329936,3.6    13.4121533870889,52.5049992832676,3.6    13.4132832308043,52.5046218501618,3.6    13.4138737679034,52.5050789287074,3.6    13.4143159594892,52.5052254323547,3.6    13.415741930517,52.5055398661363,3.6    13.416549432137,52.5057681539424,3.6    13.4178153260217,52.506149831266,3.6    13.4182878915452,52.5062147949015,3.6    13.4194968895367,52.5061519470401,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4194968895367,52.5061519470401,3.6    13.4199203493491,52.5060378798289,3.6    13.4218395368223,52.5055213348635,3.6    13.4224070303586,52.5054774601977,3.6    13.4228169301781,52.5054464471138,3.6    13.4232264269122,52.5054371528792,3.6    13.4235745441459,52.505459672792,3.6    13.4240031777343,52.5055021071293,3.6    13.4243770401087,52.5055527019311,3.6    13.4246472058942,52.5056031588773,3.6    13.424887562071,52.5056602491693,3.6    13.4251060767921,52.5057206650239,3.6    13.4253656971406,52.5058078854111,3.6    13.4255860965104,52.5058835160791,3.6    13.425907733469,52.5060056216207,3.6    13.4261968310395,52.506149516362,3.6    13.4265314940287,52.5063389513384,3.6    13.4266945945652,52.506452365083,3.6    13.4269472460687,52.5066389937395,3.6    13.4271292727093,52.506810741182,3.6    13.4273086540276,52.506999315695,3.6    13.4274745619892,52.5071830227047,3.6    13.4275992977188,52.5074016891785,3.6    13.4277948873191,52.5077297678312,3.6    13.4284725680414,52.5087508281605,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4270224126909,52.5097762840661,3.6    13.428124096263,52.5090049907122,3.6    13.4283467657904,52.5088606474162,3.6    13.4284725680414,52.5087508281605,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4284725680414,52.5087508281605,3.6    13.4288485267598,52.5089592008171,3.6    13.4290105156009,52.5091490770067,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3908596082337,52.5081824409572,3.6    13.3909281855626,52.5077990803994,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3909281855626,52.5077990803994,3.6    13.3921779185691,52.5078803038642,3.6    13.3922798753755,52.5079797335932,3.6    13.3924124991391,52.5080146468502,3.6    13.3923903928596,52.5081777489772,3.6    13.3969533667386,52.5084296969975,3.6    13.397247794632,52.5084916235319,3.6    13.3986048451965,52.509152153592,3.6    13.3988617991793,52.5091612896514,3.6    13.3988485061691,52.5093642541257,3.6    13.3988362985165,52.5095091562423,3.6    13.4000944885085,52.5098609545168,3.6    13.4005777019326,52.5097083724286,3.6    13.400455855325,52.5095782628014,3.6    13.4006143152735,52.5094825851445,3.6    13.4010132849457,52.509681733009,3.6    13.4018621554334,52.5096442858596,3.6    13.4026276688193,52.5095958146723,3.6    13.4027224981367,52.5094361665293,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3788279098554,52.5104106122439,3.6    13.3779463699217,52.5085311040588,3.6    13.3779845682378,52.5081898290763,3.6    13.3780389584808,52.5080860717785,3.6    13.3785577553229,52.5076670165957,3.6    13.3788138979315,52.5077682986125,3.6    13.3796163738454,52.5075909263484,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3796163738454,52.5075909263484,3.6    13.3808355395522,52.5073329262826,3.6    13.3824395537323,52.5073115205875,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3802500286323,52.5188248715944,3.6    13.3800372091437,52.5188195337788,3.6    13.3800458360424,52.5187832596135,3.6    13.379694200402,52.518816262892,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.379694200402,52.518816262892,3.6    13.3792445452598,52.5188508046985,3.6    13.3790486271691,52.5188741723409,3.6    13.3787220462627,52.5189280727694,3.6    13.378699713532,52.5188801200624,3.6    13.3779943906733,52.519000611978,3.6    13.3775920570623,52.5190685550696,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.387620092848,52.5324845068821,3.6    13.3871207497668,52.5328295991419,3.6    13.3864195754279,52.5331994767977,3.6    13.3819885509331,52.5359796556249,3.6    13.3815220248131,52.5358342504485,3.6    13.3813795535563,52.5357901307932,3.6    13.3808966756948,52.5364803709194,3.6    13.3807216568751,52.5364211678995,3.6    13.3805012839941,52.536659420974,3.6    13.3807637137747,52.5367329274992,3.6    13.3802882345124,52.5374775944736,3.6    13.3801978653463,52.5374756933178,3.6    13.380115248004,52.5376726323585,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4024382934699,52.55425300635,3.6    13.4023323640666,52.5539119263972,3.6    13.4022908611929,52.5536042588966,3.6    13.3993957536849,52.5535504410941,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3993957536849,52.5535504410941,3.6    13.3996110713369,52.5527657795825,3.6    13.3997215906516,52.5525380415401,3.6    13.4001978744757,52.5515045803028,3.6    13.4008546532522,52.5515702730177,3.6    13.4009315590597,52.5512962635915,3.6    13.4008943069968,52.5512902756188,3.6    13.4009640175676,52.5509885352772,3.6    13.4008193983352,52.5509782225533,3.6    13.400510415641,52.5509857197313,3.6    13.4004894976825,52.5508872634906,3.6    13.4005741458395,52.5507415592158,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3943596031026,52.5643661132602,3.6    13.3952981820189,52.5634998291909,3.6    13.3965117871128,52.5623523639075,3.6    13.3970044634019,52.5618896408252,3.6    13.397228719593,52.561766813506,3.6    13.3972882187512,52.5617284891981,3.6    13.3974636121418,52.5617835510573,3.6    13.397742200554,52.5616368473016,3.6    13.3982100335723,52.5616722219134,3.6    13.398257010359,52.5613966458187,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.398257010359,52.5613966458187,3.6    13.3998851976132,52.5608760962623,3.6    13.4002339810768,52.5607820919285,3.6    13.4004723940331,52.5607598255188,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3686683153365,52.5797114508802,3.6    13.3715189358352,52.5782011608412,3.6    13.3721148741578,52.5779317036601,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3721148741578,52.5779317036601,3.6    13.3733516743814,52.5773999455755,3.6    13.3745086645696,52.5769236021725,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3629254358994,52.5916192242925,3.6    13.3629621874166,52.5913183780493,3.6    13.3623411563885,52.5911492785051,3.6    13.3610759776577,52.5907642823413,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3610759776577,52.5907642823413,3.6    13.3601118848803,52.5904776721391,3.6    13.3598097821162,52.5906417594261,3.6    13.3597297022458,52.5907772200095,3.6    13.3593502766039,52.5907392509403,3.6    13.3583756060368,52.5907072199844,3.6    13.3583504792827,52.5908570007629,3.6    13.3582479814924,52.590877239441,3.6    13.3567555437636,52.590802900108,3.6    13.3537180346251,52.5906659758946,3.6    13.3529622913831,52.5905053232062,3.6    13.3520025072113,52.5904725723246,3.6    13.3501402947342,52.5903834078519,3.6    13.3501629895668,52.5900906482506,3.6    13.3502368726449,52.5897993466656,3.6    13.3501835464812,52.5897394634424,3.6    13.3505020513955,52.5893855970186,3.6    13.3504609015684,52.5886396575237,3.6    13.3522823777802,52.5876331589542,3.6    13.352528850919,52.5874458408294,3.6    13.3526507078429,52.5872958433179,3.6    13.3578754788314,52.5844255560358,3.6    13.3580556438105,52.584405174587,3.6    13.3582863385609,52.5845701264417,3.6    13.3584183299378,52.5846060421482,3.6    13.3587412987911,52.5848008496674,3.6    13.3597197383165,52.5842437774395,3.6    13.3610848995695,52.5837132381852,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4508727795889,52.4968584054001,3.6    13.4508777445633,52.4966921428137,3.6    13.4508946147645,52.4966408643701,3.6    13.4509686263674,52.4965653847631,3.6    13.4510485615738,52.4964418244082,3.6    13.4511637175576,52.4963689013059,3.6    13.4512781680533,52.4963361025465,3.6    13.4515155407247,52.4962726157262,3.6    13.4508025154311,52.4958583631079,3.6    13.4509732469037,52.4957408170639,3.6    13.4506398744832,52.4955493456458,3.6    13.450469882845,52.4956683304816,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4512112587696,52.4971912990743,3.6    13.4512111735764,52.4971912320961,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4512111735764,52.4971912320961,3.6    13.4508727795889,52.4968584054001,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3929866716903,52.5364339949961,3.6    13.3910117033009,52.535362273245,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3910117033009,52.535362273245,3.6    13.3906022146147,52.5351051889339,3.6    13.3897760838247,52.5343540252124,3.6    13.3889757541007,52.5335900036949,3.6    13.3898479043377,52.5333485428682,3.6    13.3877883069117,52.5324786000756,3.6    13.387620092848,52.5324845068821,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4015893496954,52.560506353124,3.6    13.4006295304213,52.5599500350681,3.6    13.3994866228872,52.5587019076301,3.6    13.3996134580656,52.5584761651324,3.6    13.3994261112417,52.5580894756279,3.6    13.3992829120647,52.5578294094448,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.378009926035,52.5201708303129,3.6    13.3778358963033,52.5199167645928,3.6    13.3781325775533,52.5198123348051,3.6    13.378423262723,52.5197440233483,3.6    13.378584129901,52.5197054801333,3.6    13.3788725240635,52.5196614416515,3.6    13.3790685689439,52.5196346302273,3.6    13.3792309915772,52.519563299758,3.6    13.3795175433242,52.5195582213516,3.6    13.3799933301559,52.519551359866,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4293787544264,52.5095769561859,3.6    13.4287191114042,52.5099281904783,3.6    13.4292219485694,52.5104163514857,3.6    13.4304159523248,52.509952471134,3.6    13.4315827172614,52.5095260162615,3.6    13.4322221123891,52.5092739323266,3.6    13.4343619107035,52.5084802964109,3.6    13.4343705148909,52.508392640451,3.6    13.4351938474135,52.5079805037034,3.6    13.4375331344497,52.5061767406985,3.6    13.4382299702906,52.5057154294645,3.6    13.4389888009505,52.505312549723,3.6    13.4399479010082,52.5048954178415,3.6    13.4418921858801,52.5041686193629,3.6    13.4442108982629,52.5033457404144,3.6    13.4459491656116,52.5027258917324,3.6    13.4464185603767,52.5026149953304,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.459466302737,52.4965085160339,3.6    13.4557775996486,52.4972446007346,3.6    13.4554457436175,52.4972802497232,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3740580724212,52.5280515638595,3.6    13.3757745860012,52.5285471258771,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3757745860012,52.5285471258771,3.6    13.3756512702821,52.5286896695578,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3756512702821,52.5286896695578,3.6    13.3769784079719,52.529060006826,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3772796604999,52.5286542839246,3.6    13.3745039357874,52.5278284777456,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3801945938114,52.5189946384965,3.6    13.380115254566,52.5189932970042,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3800273693876,52.5195068982591,3.6    13.3799933301559,52.519551359866,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4464185603767,52.5026149953304,3.6    13.4461805684548,52.5023369935758,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4465213892335,52.5021645517526,3.6    13.4458806876914,52.5016852001373,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.459466302737,52.4965085160339,3.6    13.4601637878021,52.4962702208174,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4601637878021,52.4962702208174,3.6    13.4608811070523,52.4959839649326,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4608811070523,52.4959839649326,3.6    13.4618442613158,52.4956231094504,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4618442613158,52.4956231094504,3.6    13.4622401682893,52.4955254511623,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4630045289384,52.4961392265674,3.6    13.4634238251207,52.4964938707805,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4634238251207,52.4964938707805,3.6    13.4634885852963,52.496465262054,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4634885852963,52.496465262054,3.6    13.4637932627131,52.4967239682403,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4637932627131,52.4967239682403,3.6    13.4642089825931,52.4971550166646,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4642089825931,52.4971550166646,3.6    13.4642381986138,52.4972016917041,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4642381986138,52.4972016917041,3.6    13.4641491971994,52.4974275684908,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4641491971994,52.4974275684908,3.6    13.464066683364,52.4974884387256,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.464066683364,52.4974884387256,3.6    13.4635370348576,52.4976634846499,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4635370348576,52.4976634846499,3.6    13.459847310896,52.4988098444874,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.459847310896,52.4988098444874,3.6    13.455898397824,52.5000489837901,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.455898397824,52.5000489837901,3.6    13.4545153785007,52.5004738612067,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4545153785007,52.5004738612067,3.6    13.4534679263544,52.5007628985539,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4534679263544,52.5007628985539,3.6    13.4515318935975,52.5012909593052,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4515318935975,52.5012909593052,3.6    13.4469652188982,52.5025468180388,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4469652188982,52.5025468180388,3.6    13.4465213892335,52.5021645517526,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4626561362209,52.4958829659841,3.6    13.4630045289384,52.4961392265674,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4290105156009,52.5091490770067,3.6    13.4291634627967,52.5093204858265,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4132165830218,52.5066020358054,3.6    13.4129243776376,52.5066797576828,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3899254971326,52.5093525449299,3.6    13.3902044194863,52.5093706686593,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.3759204108502,52.5360233354777,3.6    13.3762442866833,52.5361770507219,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4024382934699,52.55425300635,3.6    13.4025047407873,52.5546478569909,3.6    </coordinates>
+            </LineString>
+            <LineString>
+              <extrude>1</extrude>
+              <tessellate>1</tessellate>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>13.4015893496954,52.560506353124,3.6    13.4011765019,52.5607033231167,3.6    </coordinates>
+            </LineString>
+          </MultiGeometry>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <width>4</width>
+              <color>C0DD0000</color>
+            </LineStyle>
+            <PolyStyle>
+              <color>C0DD0000</color>
+            </PolyStyle>
+          </Style>
+        </Placemark>
+        <open>0</open>
+      </Folder>
+      <name>Outer wall</name>
+      <open>0</open>
+      <Style>
+        <ListStyle>
+          <bgColor>FFFFFFFF</bgColor>
+          <listItemType>checkHideChildren</listItemType>
+          <color>FFFFFFFF</color>
+        </ListStyle>
+      </Style>
+    </Folder>
+    <name>Wall 1989</name>
+  </Document>
+</kml>
